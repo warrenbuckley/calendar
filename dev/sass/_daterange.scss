@@ -23,7 +23,6 @@
     position: relative;
     z-index: 5;
     overflow: hidden;
-    height: 40px;
 
     &:hover {
       border-color: $blue;
@@ -41,7 +40,7 @@
 
       .dr-date {
         font-size: rem(15);
-        padding: rem(10.5 0);
+        padding: rem(4 0);
         text-align: center;
         white-space: nowrap;
         overflow: hidden;
